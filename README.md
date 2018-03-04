@@ -1,6 +1,9 @@
 # installLibrealsenseTX2
 JetsonHacks Install librealsense for Intel RealSense cameras on Jetson TX2 Development Kit
 
+This script has been modified to install newer model like Intel Realsense D435 on
+Nvidia Jetson TX2. It has been tested on D435.
+
 This is for version L4T 28.1 (JetPack 3.1)
 
 To install the librealsense library:
